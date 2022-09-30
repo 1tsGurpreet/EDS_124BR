@@ -1,2 +1,6 @@
-# EDS_124BR
-This is a teaching portfolio that I'm working on in hopes that I can help teach computation to K-12 students!
+# EDS 124BR : Teaching Computational Thinking for Everyone
+
+## Practice of Explaining a Simple interactive program
+[Let's Draw Alonzo a House](https://www.youtube.com/watch?v=vcSVvX5qWws)
+
+
