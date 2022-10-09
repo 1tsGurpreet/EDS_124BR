@@ -5,3 +5,6 @@
 
 ## Repeats: Code showcase break dance edition
 [Repeats: Break dance](https://www.youtube.com/watch?v=5Dxcca9Q_pM)
+
+## Repeats: Animal Parade Quest Explanation
+[Repeats: Animal Parade](https://www.youtube.com/watch?v=AbNgqBD8WsA)
