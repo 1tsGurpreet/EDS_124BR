@@ -8,3 +8,6 @@
 
 ## Repeats: Animal Parade Quest Explanation
 [Repeats: Animal Parade](https://www.youtube.com/watch?v=AbNgqBD8WsA)
+
+## Nested Repeats: Rat wants some cheese Explanation
+[Nested Repeats: Rat wants cheese](https://www.youtube.com/watch?v=LhrXMZhzXls)
