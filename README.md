@@ -14,3 +14,6 @@
 
 ## Events: Monkey Banana Game
 [Events: Monkey Game](https://www.youtube.com/watch?v=PVw0JyjvjLI)
+
+## Variables
+[Variables: Drawing Shapes](https://www.youtube.com/watch?v=jQ9d-T_F84Y)
