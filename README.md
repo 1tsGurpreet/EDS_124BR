@@ -17,3 +17,6 @@
 
 ## Variables
 [Variables: Drawing Shapes](https://www.youtube.com/watch?v=jQ9d-T_F84Y)
+
+## Conditional Loops
+[Condtional Loops: Touch the soccer ball](https://www.youtube.com/watch?v=_-mrBXXPAB0)
