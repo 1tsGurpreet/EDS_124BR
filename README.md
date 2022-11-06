@@ -20,3 +20,6 @@
 
 ## Conditional Loops
 [Condtional Loops: Touch the soccer ball](https://www.youtube.com/watch?v=_-mrBXXPAB0)
+
+## If Else Block
+[If Block: Snap game edition!](https://www.youtube.com/watch?v=_XxQX8sJnbs)
