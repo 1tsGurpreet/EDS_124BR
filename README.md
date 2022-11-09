@@ -26,3 +26,6 @@
 
 ## Nested If Else Block
 [Nested If Else: Can Mr.Penguin swim?](https://www.youtube.com/watch?v=Pe6BmeEiEaw)
+
+## Compound Conditionals
+[Compound Conditionals: Help Alonzo find the treasure!](https://youtu.be/b4j9nI-1fJk)
