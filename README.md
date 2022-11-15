@@ -29,3 +29,6 @@
 
 ## Compound Conditionals
 [Compound Conditionals: Help Alonzo find the treasure!](https://youtu.be/b4j9nI-1fJk)
+
+## Functions
+[Functions: Drawing a canvas](https://youtu.be/BUQAjF8_zOM)
