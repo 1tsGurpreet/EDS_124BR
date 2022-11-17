@@ -32,3 +32,6 @@
 
 ## Functions
 [Functions: Drawing a canvas](https://youtu.be/BUQAjF8_zOM)
+
+## Lists
+[Lists: Finding a country](https://youtu.be/3b7lY3RhjRM)
